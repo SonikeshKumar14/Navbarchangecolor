@@ -4,7 +4,7 @@ import Home from './Home'
 import Report from './Report'
 import Product from './Product'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-
+// https://main--amazing-heliotrope-cd4bac.netlify.app/
 function App() {
   return (
     <Router>
